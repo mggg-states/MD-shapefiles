@@ -2,7 +2,7 @@
 This shapefile was obtained from the Maryland Department of Planning website and processed by members of the Metric Geometry and Gerrymandering Group (MGGG).
 
 ## Sources
-The Maryland precinct shapefile was obtained from the [Maryland Department of Planning's Redistricting website](https://planning.maryland.gov/Redistricting/Pages/2010/precinct.aspx). Election data come from the [Maryland State Board of Elections](https://elections.maryland.gov/elections/2018/election_data/index.html).
+The Maryland precinct shapefile was obtained from the [Maryland Department of Planning's Redistricting website](https://planning.maryland.gov/Redistricting/Pages/2010/precinct.aspx). Election data come from the [Maryland State Board of Elections](https://elections.maryland.gov/elections/2018/election_data/index.html). It is important to note that Maryland only releases election day ballots cast at the precinct level and the election results here do not include early, absentee or provisional votes.
 
 ## Processing
 Statewide election returns from the Board of Elections were cleaned by MGGG staff in order to join them to the precinct shapefile. Ceratin precincts in the shapefile and in the results were merged in order to reconcile discrepencies. Demographic data was aggregated from the block level using [MGGG’s proration software](https://github.com/mggg/maup). Congressional and state legislative district IDs were assigned to precincts also using this package.
