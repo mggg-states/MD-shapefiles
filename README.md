@@ -105,6 +105,8 @@ Statewide election returns from the Board of Elections were cleaned by MGGG staf
 * `SSEN18L`: Number of votes for 2018 Libertarian state senate candidate
 * `SSEN18U`: Number of votes for 2018 Unaffiliated state senate candidate
 * `CD`: Congressional district ID from 2011 enacted plan
+* `HDIST`: State Senate district ID from 2012 enacted plan
+* `SEND`: House of Delegates district ID from 2012 enacted plan
 
 
 ## Projection
